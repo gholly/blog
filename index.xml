@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关关的博客 on 关关的博客</title>
+    <link>https://gholly.github.io/blog/</link>
+    <description>Recent content in 关关的博客 on 关关的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 21:48:23 +0800</lastBuildDate>
+    <atom:link href="/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://gholly.github.io/blog/posts/</link>
+      <pubDate>Mon, 13 Apr 2020 21:48:23 +0800</pubDate>
+      
+      <guid>https://gholly.github.io/blog/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
