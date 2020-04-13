@@ -12,12 +12,21 @@
     
     
     <item>
+<<<<<<< HEAD
       <title>My First Blog</title>
       <link>https://gholly.github.io/blog/posts/my-first-blog/</link>
       <pubDate>Mon, 13 Apr 2020 21:48:23 +0800</pubDate>
       
       <guid>https://gholly.github.io/blog/posts/my-first-blog/</guid>
       <description>hello world!</description>
+=======
+      <title>My First Post</title>
+      <link>https://gholly.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Mon, 13 Apr 2020 21:48:23 +0800</pubDate>
+      
+      <guid>https://gholly.github.io/blog/posts/my-first-post/</guid>
+      <description></description>
+>>>>>>> 7efc8427dc86f5f55819feab198afdf3d48965af
     </item>
     
   </channel>
