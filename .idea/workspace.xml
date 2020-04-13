@@ -28,10 +28,9 @@
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/.gitignore" />
-        <option value="$PROJECT_DIR$/.idea/public.iml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
       </list>
     </option>
@@ -119,6 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586791013759</updated>
       <workItem from="1586791015213" duration="1057000" />
+      <workItem from="1586793290331" duration="231000" />
     </task>
     <servers />
   </component>
@@ -130,7 +130,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
